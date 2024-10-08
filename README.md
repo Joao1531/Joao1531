@@ -88,7 +88,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="csharp" width="40" height="40"/>
   </a>
   <a href="https://azure.microsoft.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thu…icrosoft_Azure.svg/2048px-Microsoft_Azure.svg.png" alt="azure" width="40" height="40"/>
   </a>
 </p>
 
