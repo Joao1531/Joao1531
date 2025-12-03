@@ -92,17 +92,4 @@
   </a>
 </p>
 
-<!-- GitHub Stats Section -->
-<h3 align="left">GitHub Stats:</h3>
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joao1531&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="Most used languages" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=joao1531&show_icons=true&locale=en" alt="GitHub stats" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joao1531&" alt="GitHub streak" />
-</p>
 
