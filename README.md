@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <h1 align="center">Hi 👋, My name is João Lopes, nice to meet you!</h1>
-<h3 align="center">Finishing my Masters in Computer Science and AI enthusiast</h3>
+<h3 align="center">Master in Computer Science and AI enthusiast</h3>
 
 <!-- Profile Views -->
 <p align="left">
