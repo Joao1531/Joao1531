@@ -6,7 +6,7 @@ I build explainable models and data products for football: turning event data in
 
 ## Featured work
 
-- **[Manager–Player Compatibility](https://github.com/Joao1531/football-manager-player-compatibility)** (MIAD final project): how well does a player fit the playing style of Guardiola, Klopp or De Zerbi? 11,132 player-seasons from the big-5 leagues, a hand-built football knowledge layer, explainable scores and a Streamlit app. 42.1% best-fit rate vs ~34% by chance, reported with confidence intervals and a permutation test.
+- **[Manager–Player Compatibility](https://github.com/Joao1531/football-manager-player-compatibility)** (MIAD final project): how well does a player fit the playing style of Guardiola, Klopp or De Zerbi? 11,132 player-seasons from the big-5 leagues, a hand-built football knowledge layer, explainable scores and a [live Streamlit app](https://football-player-fit.streamlit.app). 42.1% best-fit rate vs ~34% by chance, reported with confidence intervals and a permutation test.
 - **[South American Transfer Market Analysis](https://github.com/Joao1531/south-american-transfers-analysis):** Transfermarkt scraping pipeline and bilingual (EN/ES) dashboards for the top leagues of Chile, Uruguay, Paraguay and Peru, 2020 to 2026.
 - **[Ocasionly](https://github.com/Joao1531/ocasionly):** an AI personal stylist where a language model answers using only the user's own data, with memory. The same pattern can power a chat tool over sports data.
 
